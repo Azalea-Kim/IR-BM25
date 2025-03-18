@@ -1,7 +1,7 @@
 # <center> COMP3009J 
 # <center>Information Retrieval Programming Assignment
 ### <center> 
-###This program can work for both the large and small corpus.
+###This program can work for both the large and small corpus. Large corpous data is at: https://share.weiyun.com/mKbbRMKL
 
 ## 1. Overview
 This program a ranked Information Retrieval(IR) system based on BM25 model.
