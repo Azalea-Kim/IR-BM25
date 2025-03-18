@@ -1,7 +1,5 @@
 # <center> COMP3009J 
 # <center>Information Retrieval Programming Assignment
- ## <center>Yanxiu Jin
- ## <center>20205809
 ### <center> 
 ###This program can work for both the large and small corpus.
 
