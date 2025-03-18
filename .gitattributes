@@ -1,0 +1,2 @@
+comp3009j-corpus-large/documents.zip filter=lfs diff=lfs merge=lfs -text
+comp3009j-corpus-large/weights.txt filter=lfs diff=lfs merge=lfs -text
